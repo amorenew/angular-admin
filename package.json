@@ -1,0 +1,32 @@
+{
+  "name": "travsys-dmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amorenew/angular-admin.git"
+  },
+  "keywords": [
+    "admin",
+    "angular",
+    "json",
+    "server"
+  ],
+  "author": "Amr Eniou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amorenew/angular-admin/issues"
+  },
+  "homepage": "https://github.com/amorenew/angular-admin#readme",
+  "dependencies": {
+    "chance": "^1.0.13",
+    "faker": "^4.1.0",
+    "json-schema-faker": "^0.5.0-rc13",
+    "json-server": "^0.12.1",
+    "randexp": "^0.4.8"
+  }
+}
